@@ -1,0 +1,12 @@
+[init]
+	defaultBranch = main
+[user]
+	name = Aman Roy
+	email = admin@amanroy.me
+[color]
+	ui = auto
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[core]
+	editor = nvim
